@@ -1,0 +1,10 @@
+
+REACT APP
+http://localhost:3000/
+
+REST API
+http://localhost:5000/
+
+Cross Origin Requests
+CORS Configuration
+Allow all requests only from http://localhost:3000/
